@@ -18,7 +18,7 @@ Projekt "Výuka Informatiky na Základních školách" vznikl s cílem zlepšit 
 
 ## Motivace
 
-V dnešním digitálním věku je znalost informatiky a technologií nezbytná pro úspěšné uplatnění ve společnosti. Základní školy hrají v tomto procesu klíčovou roli, protože je důležité, aby žáci již od útlého věku získávali povědomí o tom, jak technologie fungují a jak je mohou aktivně využívat. Tento projekt se snaží přispět k tomu, aby výuka informatiky na základních školách byla efektivní, zajímavá a přitažlivá pro žáky.
+V dnešním digitálním věku je znalost informatiky a technologií nezbytná pro úspěšné uplatnění ve společnosti. Základní školy hrají v tomto procesu klíčovou roli, vzhledem k tomu že je důležité, aby žáci již od útlého věku získávali povědomí o tom, jak technologie fungují a jak je mohou aktivně využívat. Tento projekt se snaží přispět k tomu, aby výuka informatiky na základních školách byla efektivní, zajímavá a přitažlivá pro žáky.
 
 ## Cíle projektu
 
