@@ -22,8 +22,31 @@
 |              | - Základní funkce wordu, vytvoření a uložení souboru     |
 |              | - Vytvoření vánočního přání                              |
 
-| **LEDEN**    | **POKROČILEJŠÍ TÉMATA A WORD**                           |
-|--------------|----------------------------------------------------------|
-|              | - Základní formáty souborů                               |
-|              | - Flash, disketa, CD, DVD                                |
-|              | - klávesové zkratky ve wordu                             |
+| **LEDEN** | **POKROČILEJŠÍ TÉMATA A WORD**                           |
+|-----------|----------------------------------------------------------|
+|           | - Základní formáty souborů                               |
+|           | - Flash, disketa, CD, DVD                                |
+|           | - klávesové zkratky ve wordu                             |
+
+| **ÚNOR** | **SURFUJEME PO INTERNETU**                                          |
+|----------|---------------------------------------------------------------------|
+|          | - Základy práce s internetovým prohlížečem, karty a okna prohlížeče |
+|          | - Rizika při získávání informací na internetu                       |
+|          | - Hledání pojmu v internetovém vyhledávači (Google)                 |
+|          | - Google Workspace – aplikace g-mail a další                        |
+
+| **BŘEZEN** | **BLOCKLY GAMES**   |
+|------------|---------------------|
+|            | - Skládačka (1-10)  |
+
+| **DUBEN**  | **BLOCKLY GAMES**   |
+|------------|---------------------|
+|            | - Bludiště (1-10)   |
+
+| **KVĚTEN** | **BLOCKLY GAMES**   |
+|------------|---------------------|
+|            | - Muzika (1-10)     |
+
+| **ČERVEN** | **OPAKOVÁNÍ**      |
+|------------|--------------------|
+|            | - Shrnutí ročníku  |
